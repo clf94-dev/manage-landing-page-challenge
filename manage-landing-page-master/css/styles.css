@@ -1,0 +1,105 @@
+
+#navbar,#top,#middle{
+align-items:center;
+align-content: center;
+}
+body{
+  background-image: url("bg-simplify-section-desktop.svg");
+}
+
+#navbar{
+  padding: 80px 20px;
+}
+
+h1{
+  padding: 5% 10% 5% 0;
+  font-weight: 700;
+}
+h5
+{
+  color:  hsl(227, 12%, 61%);
+ line-height: 2rem;
+ font-weight: 400;
+
+}
+
+.btn{
+  background-color: hsl(12, 88%, 59%);
+  color: white;
+  border-radius: 25px;
+  align-items: center;
+}
+
+#top .btn{
+  margin: 10% 0;
+}
+h4{
+  margin: 0 10px;
+}
+.btnnavbar{
+  margin-left: 3%;
+}
+.logonavbar{
+  margin-right: 10%;
+}
+.text-font{
+  font-family: 'Be Vietnam', sans-serif;
+}
+.title-weight-bold{
+  font-weight: 700;
+  color: hsl(233, 12%, 13%);
+}
+.name-weight,.subtitle-weigh{
+  font-weight: 500;
+  color: hsl(233, 12%, 13%);
+
+}
+#calltoaction{
+  background-color: hsl(12, 88%, 59%);
+  padding: 60px 20px;
+
+}
+
+#social{
+  background-color: hsl(233, 12%, 13%);
+    padding: 60px 20px;
+
+}
+.btn-calltoaction{
+  background-color: hsl(13, 100%, 96%);
+  color:hsl(12, 88%, 59%);
+  border-radius: 25px;
+  margin: 3% 1% 0 50%;
+}
+.col-features{
+  padding: 1% 5% 1% 0;
+}
+.title-row{
+  padding: 5% 10% 3% 0;
+}
+.cont-opinions{
+  align-items: center;
+  padding: 50px 15% 50px 22%;
+  text-align: center;
+}
+.title-opinions{
+  padding: 30px 0;
+}
+.name-pad{
+  padding: 15px 0;
+}
+.search-row{
+  padding: 10px 0 40px 0;
+}
+.contmiddle{
+  padding-left: 30px;
+}
+.socialicon{
+  padding-right: 3%;
+}
+.calltoaction-color{
+  color: white;
+}
+.introductionIm{
+  width: 100%;
+}
